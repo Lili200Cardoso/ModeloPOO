@@ -1,0 +1,13 @@
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.exe
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.deps.json
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.runtimeconfig.json
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.runtimeconfig.dev.json
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.dll
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\bin\Debug\netcoreapp3.1\Mentoria_GFT.pdb
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.csprojAssemblyReference.cache
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.AssemblyInfo.cs
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.dll
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.pdb
+C:\Users\jacks\Documents\Lili\Projetos\Mentoria_GFT\obj\Debug\netcoreapp3.1\Mentoria_GFT.genruntimeconfig.cache
